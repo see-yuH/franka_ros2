@@ -21,6 +21,7 @@ install(PROGRAMS
   src/pick_and_place.py
   src/arm_mover.py
   src/pick.py
+  src/real_vision_detector.py
   DESTINATION lib/${PROJECT_NAME}
 )
 
